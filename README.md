@@ -54,4 +54,14 @@ To interact with the contract using Remix:
 5. **Deploy Contract**: Deploy the contract using the "Injected Web3" environment in Remix and connect your wallet configured for the Avalanche Fuji Test Network.
 
 
+
+## Authors
+
+- Pramod Prajapat - [Your Contact Information](https://twitter.com/pramodprajapat)
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+
 This README provides a clear and concise overview of your DegenToken project without including the actual contract code, ensuring it is user-friendly and easy to understand.
